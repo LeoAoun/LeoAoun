@@ -11,7 +11,8 @@
 <!--   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Leo-Pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/955862717086969986/955862717086969989/955862826596053043">
+  <img align="right" alt="Leo-Pic" height="150" style="border-radius:50px;" src="![Leo-Pic](https://user-images.githubusercontent.com/100950151/159527060-4ccdbb54-7928-4048-ab63-27c6891ff1f2.png)
+">
 </div>
   
   ##
