@@ -1,8 +1,8 @@
 ## Olá, eu sou o Leo! Sou um iniciante, porém apaixonado por Desenvolvimento Web 👋
 
 - Atualmente, focado em aprender Front-End 🎨
-- Busco uma oportunidade de aprofundar meus conhecimentos 🧠 e evoluir financeiramente 
-- 
+- Busco uma oportunidade de aprofundar meus conhecimentos 🧠 e evoluir financeiramente 💹
+
 <div align="center">
   <a href="https://github.com/LeoAoun" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoAoun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
