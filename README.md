@@ -1,4 +1,4 @@
-## Olá, eu sou o Leo! Sou um iniciante, porém apaixonado por programação 👋
+## Olá, eu sou o Leo! Sou um iniciante, porém apaixonado por Desenvolvimento Web 👋
 
 <div align="center">
   <a href="https://github.com/LeoAoun" target="_blank">
