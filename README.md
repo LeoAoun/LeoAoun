@@ -2,7 +2,7 @@
 
 - Cursando meu primeiro ano em Sistemas de Informação - USP (EACH) 
 - Atualmente, focado em aprender Front-End sozinho 🎨
-- Busco uma oportunidade de aprofundar meus conhecimentos 🧠 e evoluir financeiramente 💹
+- Busco uma oportunidade de estágio para aprofundar meus conhecimentos 🧠 e evoluir financeiramente 💹
 - WhatsApp: (11) 94032-5586 📲 <br>
   Email: leonardoaoundev@gmail.com 📭
 <div align="center">
