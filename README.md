@@ -1,6 +1,6 @@
-## Olá, eu sou o Leo! Sou um iniciante, porém apaixonado por Desenvolvimento Web 👋
+## Olá, eu sou o Leo! Estudante de S.I. na USP, porém também apaixonado por Desenvolvimento Web 👋
 
-- Cursando meu primeiro ano em Sistemas de Informação - USP (EACH) 
+- Cursando meu primeiro ano em Sistemas de Informação (S.I.) - USP (EACH) 
 - Atualmente, focado em aprender Front-End sozinho 🎨
 - Busco uma oportunidade de aprofundar meus conhecimentos 🧠 e evoluir financeiramente 💹
 - WhatsApp: (11) 94032-5586 📲 <br>
