@@ -1,6 +1,6 @@
 ## Olá, eu sou o Leo! Estudante de S.I. na USP, porém também apaixonado por Desenvolvimento Web 👋
 
-- USP (EACH) - 1º ano em Sistemas de Informação
+- USP (EACH) - Cursando meu 1º ano em Sistemas de Informação
 - Atualmente, focado em aprender Front-End sozinho 🎨
 - Busco uma oportunidade de estágio para aprofundar meus conhecimentos 🧠 e evoluir financeiramente 💹
 - WhatsApp: (11) 94032-5586 📲 <br>
