@@ -2,7 +2,7 @@
 
 - USP - Cursando meu 1º ano em Sistemas de Informação 🎓
 - Atualmente, focado em dominar Front-End sozinho 👨‍💻
-- Busco uma oportunidade de estágio para aprofundar meus conhecimentos 🧠
+- Busco uma oportunidade de estágio para aprofundar meus conhecimentos e me🧠
 - WhatsApp: (11) 94032-5586 📲 <br>
   Email: leonardoaoundev@gmail.com 📭
 <div align="center">
@@ -16,6 +16,7 @@
 <!--   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/955862717086969989/955862826415706202/Avatar-Maker.png?width=373&height=406">
 </div>
   
