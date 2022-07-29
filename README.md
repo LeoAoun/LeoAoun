@@ -1,4 +1,4 @@
-## Olá, eu sou o Leo! Estudante de S.I. na USP, porém também apaixonado por Desenvolvimento Web 👋
+## Olá, eu sou o Leo! Estudante de S.I. na USP e apaixonado por programação 👋
 
 - USP (EACH) - Cursando meu 1º ano em Sistemas de Informação
 - Atualmente, focado em aprender Front-End sozinho 🎨
