@@ -1,6 +1,6 @@
 ## Olá, eu sou o Leo! Um universitário cursando Sistemas de Informação na USP e apaixonado por programação 👋
 
-- USP (EACH) - Cursando meu 1º ano em Sistemas de Informação 🎓
+- USP - Cursando meu 1º ano em Sistemas de Informação 🎓
 - Atualmente, focado em dominar Front-End sozinho 👨‍💻
 - Busco uma oportunidade de estágio para aprofundar meus conhecimentos 🧠
 - WhatsApp: (11) 94032-5586 📲 <br>
