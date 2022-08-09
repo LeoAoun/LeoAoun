@@ -7,22 +7,24 @@
   Email: leonardoaoundev@gmail.com 📭
 <div align="center">
   <a href="https://github.com/LeoAoun" target="_blank">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoAoun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 <!--   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Leo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Leo-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Leo-Insomnia" height="30" width="40" src="https://user-images.githubusercontent.com/100950151/183777544-05a67d46-74b7-4410-a160-0c045e77448a.svg">
   <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/955862717086969989/955862826415706202/Avatar-Maker.png?width=373&height=406">
+    
 </div>
   
   ##
