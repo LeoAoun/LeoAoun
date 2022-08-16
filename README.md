@@ -29,7 +29,6 @@
   <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/955862717086969989/955862826415706202/Avatar-Maker.png?width=373&height=406">
     
 </div>
-  ![firebase]()
 
   ##
   
