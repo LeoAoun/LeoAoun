@@ -22,13 +22,15 @@
   <img align="center" alt="Leo-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Leo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Leo-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Leo-FireBase" height="30" width="40" src="https://user-images.githubusercontent.com/100950151/184993191-6fdc0c71-f83e-42d7-8678-f14008445abf.svg">
   <img align="center" alt="Leo-Insomnia" height="30" width="40" src="https://user-images.githubusercontent.com/100950151/183777544-05a67d46-74b7-4410-a160-0c045e77448a.svg">
   <img align="center" alt="Leo-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/955862717086969989/955862826415706202/Avatar-Maker.png?width=373&height=406">
     
 </div>
-  
+  ![firebase]()
+
   ##
   
   <div> 
