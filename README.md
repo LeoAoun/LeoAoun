@@ -1,7 +1,7 @@
 ## Olá, eu sou o Leo! Um universitário cursando Sistemas de Informação na USP e apaixonado por programação 👋
 
 - USP - Cursando meu 2º ano em Sistemas de Informação 🎓
-- Atualmente, focado em dominar Back-End sozinho 👨‍💻
+- Atualmente, focado em dominar Front-End e Back-End sozinho 👨‍💻
 - Busco uma oportunidade de estágio para aprofundar meus conhecimentos e me destacar no mercado de trabalho 🧠
 - WhatsApp: (11) 94032-5586 📲 <br>
   Email: leonardoaoundev@gmail.com 📭
