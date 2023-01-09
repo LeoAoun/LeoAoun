@@ -9,10 +9,10 @@
 <div align="center">
   <a href="https://github.com/LeoAoun" target="_blank">
     
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoAoun&theme=dracula)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoAoun&theme=aura_dark)
 
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&show_icons=true&theme=dracula)
-    
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&layout=compact&theme=aura_dark)
+
 </div>
   <div style="display: inline_block"><br>
     
