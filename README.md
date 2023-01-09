@@ -5,12 +5,14 @@
 - Busco uma oportunidade de estágio para aprofundar meus conhecimentos e me destacar no mercado de trabalho 🧠
 - WhatsApp: (11) 94032-5586 📲 <br>
   Email: leonardoaoundev@gmail.com 📭
+  
 <div align="center">
   <a href="https://github.com/LeoAoun" target="_blank">
     
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoAoun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&layout=compact&langs_count=7&theme=dracula"/>
-  --!>
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoAoun&theme=dracula)
+
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&show_icons=true&theme=dracula)
+    
 </div>
   <div style="display: inline_block"><br>
     
