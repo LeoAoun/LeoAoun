@@ -16,6 +16,8 @@
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&layout=compact&theme=aura_dark)
 </div>
   
+  ![snake gif](https://github.com/LeoAoun/LeoAoun/blob/output/github-contribution-grid-snake.gif)
+  
 <div style="display: inline_block">
 
 <br>
