@@ -2,7 +2,7 @@
 
 - USP - Cursando meu 2º ano em Sistemas de Informação 🎓
 - Atualmente, focado em dominar Front-End e Back-End sozinho 👨‍💻
->- Busco uma oportunidade de estágio para >aprofundar meus conhecimentos e me >destacar no mercado de trabalho 🧠
+- Busco uma oportunidade de estágio para aprofundar meus conhecimentos e me destacar no mercado de trabalho 🧠
 - WhatsApp: (11) 94032-5586 📲 <br>
   Email: leonardoaoundev@gmail.com 📭
   
