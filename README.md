@@ -24,22 +24,23 @@
     
 ### Linguagens e Tecnologias que utilizo:
     
-  <img align="center" alt="Leo-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
+  <img align="center" alt="AngularJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> 
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="PrismaORM" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="Springboot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="FireBase" height="30" width="40" src="https://user-images.githubusercontent.com/100950151/184993191-6fdc0c71-f83e-42d7-8678-f14008445abf.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="FireBase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="mySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Electron" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
   ##
