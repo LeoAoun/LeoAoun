@@ -3,7 +3,7 @@
 - USP - Cursando meu 3º ano na Graduação em Sistemas de Informação 🎓
 - Atualmente, focado em estudar Engenharia de Software e Desenvolvimento Full Stack 👨‍💻
 - Busco oportunidades de estágio para aprofundar meus conhecimentos e me destacar no mercado de trabalho 🧠
-- Portfolio: https://leoaoun.github.io/Portfolio/ 🎨
+- Portfolio: <a href="https://leoaoun.github.io/Portfolio/" target="_blank">leoaoun.github.io/Portfolio/</a> 🎨
 - WhatsApp: (11) 94032-5586 📲 <br>
   Email: leonardoaoundev@gmail.com 📭
   
