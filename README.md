@@ -1,6 +1,6 @@
 ## Olá, eu sou o Leo! Um universitário cursando Sistemas de Informação na USP e apaixonado por programação 👋
 
-- USP - Cursando meu 3º ano em Sistemas de Informação 🎓
+- USP - Cursando meu 3º ano na Graduação em Sistemas de Informação 🎓
 - Atualmente, focado em estudar Engenharia de Software e Desenvolvimento Full Stack 👨‍💻
 - Busco oportunidades de estágio para aprofundar meus conhecimentos e me destacar no mercado de trabalho 🧠
 - Portfolio: https://leoaoun.github.io/Portfolio/ 🎨
