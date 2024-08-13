@@ -1,12 +1,22 @@
-## Olá, eu sou o Leo! Um universitário cursando Sistemas de Informação na USP e apaixonado por programação 👋
+## 👋 Olá! Eu sou o Leo, estudante de Sistemas de Informação na USP
 
-- USP - Cursando meu 3º ano na Graduação em Sistemas de Informação 🎓
-- Atualmente, focado em estudar Engenharia de Software e Desenvolvimento Full Stack 👨‍💻
-- Busco oportunidades de estágio para aprofundar meus conhecimentos e me destacar no mercado de trabalho 🧠
-- Portfolio: <a href="https://leoaoun.github.io/Portfolio/" target="_blank">leoaoun.github.io/Portfolio/</a> 🎨
-- WhatsApp: (11) 94032-5586 📲 <br>
-  Email: leonardoaoundev@gmail.com 📭
-  
+### 🎓 Educação
+- **Universidade de São Paulo (USP)**: Cursando o 3º ano da graduação em **Sistemas de Informação**.
+
+### 👨‍💻 Foco Acadêmico e Profissional
+- **Engenharia de Software**: Aprofundando meu conhecimento em práticas e metodologias para construir sistemas robustos.
+- **Desenvolvimento Full Stack**: Criando soluções completas, da interface ao backend, com um forte interesse em novas tecnologias e ferramentas.
+
+### 🎯 Objetivo
+- **Estágio**: Estou em busca de oportunidades de estágio para aplicar meus conhecimentos em projetos reais e me desenvolver profissionalmente no mercado de TI.
+
+### 🌐 Portfólio
+- Confira meu trabalho e projetos em meu [Portfólio](https://leoaoun.github.io/Portfolio/).
+
+### 📬 Contato
+- **WhatsApp**: (11) 94032-5586
+- **Email**: leonardoaoundev@gmail.com
+
 <br>
 
 <div align="center">
