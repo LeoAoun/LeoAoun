@@ -1,5 +1,8 @@
 ## 👋 Olá! Eu sou o Leo, estudante de Sistemas de Informação na USP
 
+### 🌐 Portfólio
+- Confira meu trabalho e projetos em meu [Portfólio](https://leoaoun.github.io/Portfolio/).
+
 ### 🎓 Educação
 - **Universidade de São Paulo (USP)**: Cursando o 3º ano da graduação em **Sistemas de Informação**.
 
@@ -9,9 +12,6 @@
 
 ### 🎯 Objetivo
 - **Estágio**: Estou em busca de oportunidades de estágio para aplicar meus conhecimentos em projetos reais e me desenvolver profissionalmente no mercado de TI.
-
-### 🌐 Portfólio
-- Confira meu trabalho e projetos em meu [Portfólio](https://leoaoun.github.io/Portfolio/).
 
 ### 📬 Contato
 - **WhatsApp**: (11) 94032-5586
