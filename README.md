@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Leo, estudante de Sistemas de Informação na USP
+## 👋 Olá! Eu sou o Leo, um estudante de Sistemas de Informação na USP
 
 ### 🌐 Portfólio
 - Confira meu trabalho e projetos em meu [Portfólio](https://leoaoun.github.io/Portfolio/).
@@ -43,7 +43,6 @@
   <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="PrismaORM" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="Springboot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="FireBase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
