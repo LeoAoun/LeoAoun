@@ -4,7 +4,7 @@
 - Confira meu trabalho e projetos em meu [Portfólio](https://leoaoun.github.io/Portfolio/).
 
 ### 🎓 Educação
-- **Universidade de São Paulo (USP)**: Cursando o 3º ano da graduação em **Sistemas de Informação**.
+- **Universidade de São Paulo (USP)**: Cursando o 4º ano da graduação em **Sistemas de Informação**.
 
 ### 👨‍💻 Foco Acadêmico e Profissional
 - **Engenharia de Software**: Aprofundando meu conhecimento em práticas e metodologias para construir sistemas robustos.
