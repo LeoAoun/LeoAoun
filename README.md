@@ -3,19 +3,16 @@
 ### 🌐 Portfólio
 - Confira meu trabalho e projetos em meu [Portfólio](https://leoaoun.github.io/Portfolio/).
 
+### 👨‍💻 Resumo Profissional
+- Formando em Sistemas de Informação pela Universidade de São Paulo (USP), tenho experiência em grandes empresas como Vivo (Telefônica Brasil), onde lidero a automação e desenvolvimento de pipelines de segurança (CI/CD); e a PRODAM/SP, onde atuei no desenvolvimento e manutenção de um sistema que gerencia mais de 220 mil servidores públicos. Meu diferencial é unir a visão de desenvolvedor a uma forte cultura de segurança para entregar soluções de software eficientes e seguras desde a concepção.
+
 ### 🎓 Educação
 - **Universidade de São Paulo (USP)**: Cursando o 4º ano da graduação em **Sistemas de Informação**.
-
-### 👨‍💻 Foco Acadêmico e Profissional
-- **Engenharia de Software**: Aprofundando meu conhecimento em práticas e metodologias para construir sistemas robustos.
-- **Desenvolvimento Full Stack**: Criando soluções completas, da interface ao backend, com um forte interesse em novas tecnologias e ferramentas.
-
-### 🎯 Objetivo
-- **Estágio**: Estou em busca de oportunidades de estágio para aplicar meus conhecimentos em projetos reais e me desenvolver profissionalmente no mercado de TI.
 
 ### 📬 Contato
 - **WhatsApp**: (11) 94032-5586
 - **Email**: leonardoaoundev@gmail.com
+- **Linkedin**: <a href="linkedin.com/in/leonardo-aoun" target="_blank">linkedin.com/in/leonardo-aoun</a>
 
 <br>
 
