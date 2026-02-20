@@ -1,59 +1,68 @@
-## 👋 Olá! Eu sou o Leo, um estudante de Sistemas de Informação na USP
+<div align="right">
+  🌎 <b>English</b> | <a href="README-pt.md">Português</a>
+</div>
 
-### 🌐 Portfólio
-- Confira meu trabalho e projetos em meu [Portfólio](https://leoaoun.github.io/Portfolio/).
+## 👋 Hi! I'm Leonardo Aoun
 
-### 👨‍💻 Resumo Profissional
-- Formando em Sistemas de Informação pela Universidade de São Paulo (USP), tenho experiência em grandes empresas como Vivo (Telefônica Brasil), onde lidero a automação e desenvolvimento de pipelines de segurança (CI/CD); e a PRODAM/SP, onde atuei no desenvolvimento e manutenção de um sistema que gerencia mais de 220 mil servidores públicos. Meu diferencial é unir a visão de desenvolvedor a uma forte cultura de segurança para entregar soluções de software eficientes e seguras desde a concepção.
+**Software Engineer | Backend & DevSecOps | Information Systems Bachelor (USP)**
 
-### 🎓 Educação
-- **Universidade de São Paulo (USP)**: Cursando o 4º ano da graduação em **Sistemas de Informação**.
+### 👨‍💻 About me
 
-### 📬 Contato
-- **WhatsApp**: (11) 94032-5586
-- **Email**: leonardoaoundev@gmail.com
-- **Linkedin**: <a href="linkedin.com/in/leonardo-aoun" target="_blank">linkedin.com/in/leonardo-aoun</a>
+- 🎓 Graduated in **Information Systems** from the **University of São Paulo (USP)**.
+- 🚀 **Software Engineer** with solid experience in developing scalable architectures and mission-critical systems.
+- 🏢 Currently working at **Vivo (Telefônica Brasil)**, developing internal platforms based on microservices and handling CI/CD pipeline automation with DevSecOps practices.
+- ⚙️ Strong experience in system maintenance and modernization, legacy code refactoring, and database performance optimization.
+- 🌐 Learn more about my background and projects on my [Portfolio](https://leoaoun.github.io/Portfolio/).
 
-<br>
+---
+
+### 🛠️ Technologies & Tools
+
+**Frontend:** ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Messaging:** ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**DevOps:** ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Observability:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+**Databases:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/LeoAoun" target="_blank">
-    
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoAoun&theme=aura_dark)
-
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&layout=compact&theme=aura_dark)
-</div>
-  
- <!-- ![Snake animation](https://github.com/LeoAoun/LeoAoun/blob/output/github-contribution-grid-snake.svg) -->
-  
-<div style="display: inline_block">
-
-<br>
-    
-### Linguagens e Tecnologias que utilizo:
-    
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
-  <img align="center" alt="AngularJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> 
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Springboot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="FireBase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="mySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Electron" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeoAoun&theme=aura_dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/LeoAoun" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&layout=compact&theme=aura_dark&hide_border=true" height="150" alt="Most Used Languages" />
+  </a>
 </div>
 
-  ##
-  
-  <div> 
-  <a href = "mailto:leonardoaoundev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
+
+### 📬 Contact
+
+<div> 
+  <a href="mailto:leonardoaoundev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-aoun/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511940325586" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
-<!-- ![snake gif](https://github.com/LeoAoun/LeoAoun/blob/output/github-contribution-grid-snake.gif) -->
