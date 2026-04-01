@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About me
 
-- 🎓 Graduated in **Information Systems** from the **University of São Paulo (USP)**.
+- 🎓 Bachelor's in **Information Systems** from the **University of São Paulo (USP)**.
 - 🚀 **Software Engineer** with solid experience in developing scalable architectures and mission-critical systems.
 - 🏢 Currently working at **Vivo (Telefônica Brasil)**, developing internal platforms based on microservices and handling CI/CD pipeline automation with DevSecOps practices.
 - ⚙️ Strong experience in system maintenance and modernization, legacy code refactoring, and database performance optimization.
