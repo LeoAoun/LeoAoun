@@ -50,10 +50,10 @@
 
 <div align="center">
   <a href="https://github.com/LeoAoun" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeoAoun&theme=aura_dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoAoun&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
   </a>
   <a href="https://github.com/LeoAoun" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoun&layout=compact&theme=aura_dark&hide_border=true" height="150" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoAoun&layout=compact&theme=tokyonight&hide_border=true" height="150" />
   </a>
 </div>
 
