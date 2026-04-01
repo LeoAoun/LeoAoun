@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Formado em **Sistemas de Informação** pela **Universidade de São Paulo (USP)**.
+- 🎓 Bacharel em **Sistemas de Informação** pela **Universidade de São Paulo (USP)**.
 - 🚀 Sou **Engenheiro de Software** com sólida experiência no desenvolvimento de arquiteturas escaláveis e sistemas críticos.
 - 🏢 Atualmente, atuo na **Vivo (Telefônica Brasil)**, onde realizo desenvolvimento interno baseado em microsserviços e lido com automação de pipelines CI/CD com práticas de DevSecOps.
 - ⚙️ Tenho forte experiência com sustentação e modernização de sistemas, refatoração de código legado e otimização de performance de banco de dados.
