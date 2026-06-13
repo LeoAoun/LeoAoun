@@ -10,7 +10,7 @@
 
 - 🎓 Bacharel em **Sistemas de Informação** pela **Universidade de São Paulo (USP)**.
 - 🚀 Sou **Engenheiro de Software** com sólida experiência no desenvolvimento de arquiteturas escaláveis e sistemas críticos.
-- 🏢 Atualmente, atuo na **Vivo (Telefônica Brasil)**, onde realizo desenvolvimento interno baseado em microsserviços e lido com automação de pipelines CI/CD com práticas de DevSecOps.
+- 🏢 Atualmente, atuo na **Itaú Unibanco**, onde realizo desenvolvimento interno baseado em microsserviços com Kotlin/Java, Spring Boot e AWS.
 - ⚙️ Tenho forte experiência com sustentação e modernização de sistemas, refatoração de código legado e otimização de performance de banco de dados.
 - 🌐 Conheça mais sobre minha trajetória e projetos no meu [Portfólio](https://leoaoun.github.io/Portfolio/).
 
