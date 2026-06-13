@@ -10,7 +10,7 @@
 
 - 🎓 Bachelor's in **Information Systems** from the **University of São Paulo (USP)**.
 - 🚀 **Software Engineer** with solid experience in developing scalable architectures and mission-critical systems.
-- 🏢 Currently working at **Vivo (Telefônica Brasil)**, developing internal platforms based on microservices and handling CI/CD pipeline automation with DevSecOps practices.
+- 🏢 Currently working at **Itaú Unibanco**, developing internal applications based on microservices with Kotlin/Java, Spring Boot and AWS.
 - ⚙️ Strong experience in system maintenance and modernization, legacy code refactoring, and database performance optimization.
 - 🌐 Learn more about my background and projects on my [Portfolio](https://leoaoun.github.io/Portfolio/).
 
